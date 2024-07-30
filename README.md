@@ -9,7 +9,9 @@ Docker: Used for containerizing the application and distributing it.
 
 URLs
 Jenkins Server: http://172.174.175.86:8080/
+username - mukul ; password - dynamics
 SonarQube Dashboard: http://172.174.175.86:9000/
+username - admin ; password - dynamics
 
 CI/CD Pipeline
 The CI/CD pipeline is defined in the Jenkinsfile located in the root of this repository. The pipeline includes the following stages:
